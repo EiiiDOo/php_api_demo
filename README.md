@@ -5,6 +5,6 @@
 
 - This backend project was created for use in the php-note-demo flutter project.
 
-# php_note_demo
+# php_note_flutter_demo
 
 https://github.com/EiiiDOo/php_note_flutter_demo
